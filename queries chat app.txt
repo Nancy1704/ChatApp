@@ -8,7 +8,7 @@ DAY2:
 
 
 
-QUESTIONS(Theory)
+Inmportant conecpt
 --------------
 1.What is mean by inheritance?
 2.Types of inheritance and explain all types?
@@ -25,6 +25,7 @@ QUESTIONS(Theory)
 13.What are the different methods available in Scanner class?
 14.Scanner class is under which package?
 15.Difference between next() and nextLine()?
+16.What is polymorphism and its types
 
 QUESTIONS(Programs)
 --------------------
